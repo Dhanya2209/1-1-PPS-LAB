@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+printf("Name : P. Dhanya Sree");
+printf("\nYear&Sem : 1-1");
+printf("\nSection - 'B'");
+return 0;
+}
+
+output
+Name : P. Dhanya Sree
+Year&Sem : 1-1
+Section - 'B'
